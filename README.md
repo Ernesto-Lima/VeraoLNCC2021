@@ -21,3 +21,5 @@ Bibliografia:
 - Foreman-Mackey D., Hogg D. W., Lang D., Goodman J. emcee: the MCMC hammer. Publications of the Astronomical Society of the Pacific. 2013 Feb 25; 125(925):306.
 - Silva J. V. de O. Aula1MC03.ipynb. Disponível em: https://colab.research.google.com/drive/1FgzuuhOwCBXMog8u1mTvjtvEAXV39B3R. (Material sugerido para iniciantes em Python).
 - PythonUFRJ. Departamento de Ciência da Computação - UFRJ. Disponível em: https://dcc.ufrj.br/~pythonufrj/. (Material sugerido para iniciantes em programação).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ernesto-Lima/VeraoLNCC2021.git/HEAD)
